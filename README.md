@@ -19,7 +19,7 @@ Agilizar o atendimento, reduzir filas e evitar erros nos pedidos.
 
  Linguagem
 
-Python
+Java
 
 Status
 Projeto em fase inicial
