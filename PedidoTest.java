@@ -9,6 +9,7 @@ public class PedidoTest {
             System.out.println("Erro: pedido vazio deveria ser 0");
             
         }
+        
 Pedido pedido2 = new Pedido();
 
 pedido2.adicionarItem(new Produto("Café", 5.0));
